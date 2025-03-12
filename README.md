@@ -40,8 +40,9 @@ Eğer sisteminizde yüklü değilse, aşağıdaki komutlarla yükleyebilirsiniz:
 │── README.md           # Bu dosya
 ```
 
-- Uludağ Projesi, belirli bir forumdan veri çekerek, üniversiteler hakkında bilgi toplamayı amaçlayan bir web scraping uygulamasıdır. Requests ve BeautifulSoup kütüphanelerini kullanarak sayfalardan veri alır, işler ve anlamlı bir formatta saklar.
+**"Uludağ Projesi, belirli bir forumdan veri çekerek ilgilendiğiniz başlıklar hakkında bilgi toplamayı amaçlayan bir web scraping uygulamasıdır. Requests ve BeautifulSoup kütüphanelerini kullanarak sayfalardan veri alır, işler ve anlamlı bir formatta saklar.
 
+Projenin adı 'Uludağ Projesi' olarak belirlenmiştir çünkü içinde kullanılan parser modülü, Uludağ Sözlük baz alınarak geliştirilmiştir."**
 
 ## 📜 Lisans
 Bu proje MIT lisansı ile lisanslanmıştır.
