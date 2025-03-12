@@ -36,7 +36,6 @@ Eğer sisteminizde yüklü değilse, aşağıdaki komutlarla yükleyebilirsiniz:
 │── parser.py           # HTML verisi işleyen modül
 │── scrpy.py            # Web kazıma işlemlerini yöneten modül
 │── search.py           # Aramada kullanılıcak kelimeleri içerecek olan modül
-│── requirements.txt    # Gerekli kütüphaneler listesi
 │── README.md           # Bu dosya
 ```
 
