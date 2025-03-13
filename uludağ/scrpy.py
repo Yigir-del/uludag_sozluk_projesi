@@ -167,8 +167,8 @@ class Scraper:
 if __name__ == "__main__":
     url = "https://www.uludagsozluk.com/login/"
     data = {
-        "username": "altuntas38",
-        "password": "altuntas381",
+        "username": "username",
+        "password": "password",
     }
 
     my_scrpy = Scraper()
