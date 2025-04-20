@@ -9,10 +9,7 @@ class Scraper:
         }
         if cookies == "":
             self.cookies = {
-                "theme": "light",
-                "punteriz501": "2503111825231140",
-                "PHPSESSID": "b7bm9a7qnfn8m854rsds4fbroi",
-                "iab_goole_ads": "49958ea193ed6ccc722e53aef9f3d0a9",
+                #enter cookie
             }
         else:
             self.cookies = cookies
